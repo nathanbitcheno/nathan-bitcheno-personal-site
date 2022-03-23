@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
 title: Nathan Bitcheno
-image: /img/home-jumbotron.jpg
-heading: Projects
 subheading: Developer.
+image: /img/background.jpg
 mainpitch:
   title: Hi, I'm Nathan
   description: >
@@ -11,7 +10,7 @@ mainpitch:
     experiences using everything from html, php & css in notepad, and mainstream
     content management systems such as WordPress and MODx, through to modern
     javascript frameworks like Vue and React. 
-description: Blah blah
+heading: Projects
 intro:
   blurbs: []
   heading: What we offer
@@ -36,4 +35,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: Blah blah
 ---
+Some body content will go here.
